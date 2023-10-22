@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import WeatherApp from './Components/WeatherApp/weatherApp'
+import WeatherApp from './Components/WeatherApp'
 
 import './index.css'
 
